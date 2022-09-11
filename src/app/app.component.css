@@ -1,0 +1,15 @@
+button {
+    background-color: red;
+    margin-top: 16px;
+    width: 300px;
+    height: 40px;
+    font-weight: 800;
+    border: none;
+}
+
+.text-style {
+    border-radius: 6px;
+    border: 1px solid #605e5e;
+    padding: 8px;
+    margin: 6px;
+}
